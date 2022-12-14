@@ -1,0 +1,36 @@
+body{
+	background-color : #FFCD80;
+	color: white;
+	padding:75px;
+	text-align : left;
+	font-family: 'Oswald', sans-serif;
+}
+p{
+	text-align : justify;
+}
+h1{
+	font-size : 44px;
+	color : purple;
+	
+}
+.special{
+	color : purple;
+
+}
+a{
+	color:white;
+}
+header{
+	margin: 0;
+	padding: 10px 10px 10px 10px;
+	border-bottom: 1px solid white
+}
+	table{
+		border : 2px solid purple;
+}
+td{
+	border-width:2px;
+	border-style:solid; 
+	border-color:purple;
+}
+		
